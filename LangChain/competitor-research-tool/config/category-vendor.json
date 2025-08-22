@@ -1,0 +1,8 @@
+{
+  "CATEGORY_STORE_MAPPING": {
+    "Fishing": ["Bass Pro", "Cabela's", "Walmart", "Amazon"],
+    "Shooting": ["Bass Pro", "Cabela's", "Speciality"],
+    "Shooting + Hunting Optics": ["Bass Pro", "Cabela's"],
+    "Outdoor Cooking Equipment": ["Amazon", "Lowe's", "Tractor Supply", "Home Depot", "Walmart"]
+  }
+}
