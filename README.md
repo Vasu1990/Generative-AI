@@ -13,12 +13,20 @@ This section contains several chatbot implementations built using the [LangChain
 - **Chain-based Chatbot**: An implementation using LangChain's chain capabilities.
 - **Resume Chatbot**: A chatbot designed to answer questions based on a resume, using ChromaDB for vector storage.
 
+
 ### 2. OpenAI Resume Bots
 
 This section explores different approaches to building a resume-parsing chatbot using OpenAI's tools.
 
 - **ResumeBot using OpenAI Library**: A resume chatbot built directly with the core OpenAI Python library. It can analyze a resume and answer questions about it.
 - **ResumeBot using OpenAI Agent SDK**: An implementation that uses the more advanced OpenAI Agent SDK to create a more sophisticated and interactive resume bot.
+
+### 3. Google SDK Projects
+
+This section contains projects built using the Google SDK.
+
+- **Competitor Research Tool**: An automated tool for conducting competitive analysis by scraping and analyzing retail websites.
+
 
 ## Getting Started
 
