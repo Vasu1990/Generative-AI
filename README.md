@@ -35,6 +35,14 @@ This section contains projects built using the Google SDK.
 - **Competitor Research Tool**: An automated tool for conducting competitive analysis by scraping and analyzing retail websites.
   - ***Technologies used**: Google AI SDK, LangChain, Streamlit, BeautifulSoup, Selenium*
 
+### 4. LangGraph
+
+This section contains projects built using the LangGraph library.
+
+- **Agentic Chatbot**: A chatbot that can use tools to answer questions.
+  - ***Technologies used**: LangGraph, LangChain, OpenAI, Gradio*
+
+
 
 ## Getting Started
 

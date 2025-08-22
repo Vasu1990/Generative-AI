@@ -113,6 +113,8 @@ qa_prompt = ChatPromptTemplate.from_messages(
         ("human", "{input}"),
     ]
 )
+
+# create_stuff_documents_chain will replace the document in the context variable
 question_answer_chain = create_stuff_documents_chain(llm, qa_prompt)
 
 rag_chain = create_retrieval_chain(retriever, question_answer_chain)
