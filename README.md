@@ -43,6 +43,14 @@ This section contains projects built using the LangGraph library.
   - ***Technologies used**: LangGraph, LangChain, OpenAI, Gradio*
 
 
+### 5. CrewAI
+
+This section contains projects built using the CrewAI framework.
+
+- **Resume Match AI**: A multi-agent AI system that analyzes a resume, finds relevant job opportunities, and provides suggestions for improvement.
+  - ***Technologies used**: CrewAI, OpenAI*
+
+
 
 ## Getting Started
 
